@@ -28,7 +28,8 @@ Jawohl! Herr Kaleun.
 請在按下 [ **/start** ] 後 [ **開始** ] 今天的巡航吧!  
 
 * homeport  
-一開始的initial state，必須先輸入 **開始** bot才會啟動對話。  
+一開始的initial state，必須先輸入 **開始** bot才會啟動對話。
+
 之後只要按照指示輸入 [ ] 中的文字就可以在state之間轉換，無論成功或失敗，最後都會回歸到*homeport*。  
 進入有情境的state都會接到bot傳過來的歷史照片（~~有些經過惡搞，如有雷同純屬巧合~~）  
 
