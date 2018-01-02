@@ -77,7 +77,7 @@ class TocMachine(GraphMachine):
         update.message.reply_text("擊沉了四艘商船！ [繼續] 待在水面下等到護航艦遠離比較安全。")
 
     def on_enter_destroyer(self, update):
-        hoto = open('photo/topp.jpg', 'rb')
+        photo = open('photo/topp.jpg', 'rb')
         update.message.reply_photo(photo)
         photo.close()
         update.message.reply_text("Torpedo...Los!")
