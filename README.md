@@ -108,5 +108,5 @@ echo玩家輸入的文字
 / /_/ /_____/ /_/ / /_/ / /_/ / /_/  __/   | |/ |/ /  __(__  ) /_ | |/ |/ / /_/ / /  / /_(__  )_/  
 \____/     /_____/\____/\____/\__/\___/    |__/|__/\___/____/\__/ |__/|__/\__,_/_/   \__/____(_) 
 ```
-* **Yoshiyasu Ishi**  Github-> [@greywolfKarl](https://github.com/greywolfKarl)  
+* **Yoshiyasu Ishi**  Github-> [@ZehirAsgrim](https://github.com/ZehirAsgrim)  
 * fb粉專連動企劃 **卡爾·鄧尼茨**  Facebook fanpage->[@DonitzAndHisUWolves](https://www.facebook.com/DonitzAndHisUWolves)  
